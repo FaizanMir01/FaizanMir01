@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaizanMir01, a 3rd-year B.Tech CSE student.
+- 👋 Hi, I’m Faizan Manzoor Mir, a 3rd-year B.Tech CSE student.
 - 👀 I’m interested in Designing, Gaming, and Travelling.
 - 🌱 I’m currently learning and exploring new aspects of computer science and technology.
 - 💞️ I’m looking to collaborate on projects related to web design, or any exciting tech-related ventures.
